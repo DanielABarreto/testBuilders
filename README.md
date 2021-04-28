@@ -8,6 +8,7 @@ Este projeto é um app de clima, onde é consumido a Weather API.
 - Typescript
 - Styled Components
 - React Native Config
+- React Navigation
 - React Redux
 - Redux Toolkit
 - React Hooks
